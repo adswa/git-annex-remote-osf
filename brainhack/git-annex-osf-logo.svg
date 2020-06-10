@@ -14,9 +14,9 @@
    inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
    sodipodi:docname="git-annex-osf-logo.svg"
    version="1.1"
-   viewBox="0 0 739.13544 781.18811"
-   height="781.18811"
-   width="739.13544"
+   viewBox="0 0 739.1354 782.09464"
+   height="340.04114"
+   width="321.36322"
    data-name="Layer 1"
    id="7dd09a4d-2b74-438e-986e-0efea9b9300a">
   <metadata
@@ -32,17 +32,18 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
+     scale-x="2.3"
      fit-margin-bottom="0"
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="2560"
-     inkscape:cy="469.49393"
-     inkscape:cx="-127.33191"
-     inkscape:zoom="0.65925441"
+     inkscape:cy="201.99536"
+     inkscape:cx="208.68658"
+     inkscape:zoom="1.8646531"
      showgrid="false"
      id="namedview493"
      inkscape:window-height="1043"
@@ -627,6 +628,7 @@
        x1="632.27002"
        id="5d661687-e38a-43c0-8ba0-d38908ccc19f" />
     <linearGradient
+       gradientTransform="translate(3.4,6.8)"
        xlink:href="#de77dbfb-dd49-4fbc-923c-7946454dd32b"
        y2="335.57999"
        x2="518.71002"
@@ -722,7 +724,7 @@
   <title
      id="title94">collecting</title>
   <g
-     transform="translate(1.9834995,8.5419064)"
+     transform="translate(-1.416505,2.6484311)"
      inkscape:label="background"
      id="layer1"
      inkscape:groupmode="layer">
@@ -732,15 +734,16 @@
        fill="#f5f5f5"
        height="781.18811"
        width="739.13544"
-       y="-8.5419064"
-       x="-1.9834995" />
+       y="-1.7419063"
+       x="1.416505" />
   </g>
   <g
-     transform="translate(1.9834995,8.5419064)"
+     transform="translate(-1.416505,2.6484311)"
      inkscape:label="Foreground"
      id="layer2"
      inkscape:groupmode="layer">
     <g
+       transform="translate(3.4,6.8)"
        id="g296"
        opacity="0.7">
       <polygon
@@ -1101,7 +1104,7 @@
          style="fill:url(#098fbc02-4549-4943-b845-c35e13d002ec)"
          id="polygon184"
          fill="url(#098fbc02-4549-4943-b845-c35e13d002ec)"
-         points="404.37,347.92 404.37,342.76 389.65,342.76 389.65,347.92 391.49,347.92 391.49,344.24 402.53,344.24 402.53,347.92 " />
+         points="391.49,347.92 391.49,344.24 402.53,344.24 402.53,347.92 404.37,347.92 404.37,342.76 389.65,342.76 389.65,347.92 " />
       <rect
          style="fill:url(#42d5ad37-1f95-4efe-a9d6-9d5a7598317f)"
          id="rect186"
@@ -1228,7 +1231,7 @@
            style="fill:url(#cff56feb-0464-47d9-bfaf-95cdd3d9140f)"
            id="polygon224"
            fill="url(#cff56feb-0464-47d9-bfaf-95cdd3d9140f)"
-           points="523.09,352.99 523.09,349.06 511.88,349.06 511.88,352.99 513.29,352.99 513.29,350.19 521.69,350.19 521.69,352.99 " />
+           points="513.29,352.99 513.29,350.19 521.69,350.19 521.69,352.99 523.09,352.99 523.09,349.06 511.88,349.06 511.88,352.99 " />
       </g>
       <g
          id="g230"
@@ -1360,7 +1363,7 @@
            style="fill:url(#2b5a7ca0-2cf9-4df0-8cdd-e53d9708a5ec)"
            id="polygon280"
            fill="url(#2b5a7ca0-2cf9-4df0-8cdd-e53d9708a5ec)"
-           points="256.71,574.98 365.73,486.24 365.73,431.73 123.6,370.88 121.07,540.75 " />
+           points="121.07,540.75 256.71,574.98 365.73,486.24 365.73,431.73 123.6,370.88 " />
       </g>
       <g
          id="g286"
@@ -1369,7 +1372,7 @@
            style="fill:url(#90935925-bac4-44a4-bec6-4c83fa48424d)"
            id="polygon284"
            fill="url(#90935925-bac4-44a4-bec6-4c83fa48424d)"
-           points="474.75,574.98 365.73,486.24 365.73,431.73 607.86,370.88 610.4,540.75 " />
+           points="610.4,540.75 474.75,574.98 365.73,486.24 365.73,431.73 607.86,370.88 " />
       </g>
       <polygon
          style="fill:url(#f90ef38d-8fba-46a7-8e54-2d901dfd8f20)"
@@ -1392,34 +1395,42 @@
       </g>
     </g>
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon298"
        fill="#535461"
        points="368.88,758.01 608.94,695.17 608.94,363.36 368.88,305.54 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon300"
        opacity="0.1"
        points="368.88,758.01 608.94,695.17 608.94,363.36 368.88,305.54 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon302"
        fill="#535461"
        points="368.88,758.01 128.83,696.42 128.83,363.36 368.88,305.54 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon304"
        opacity="0.17"
        points="368.88,758.01 128.83,696.42 128.83,361.36 368.88,303.54 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon306"
        fill="#535461"
        points="733.37,264.07 606.94,365.36 366.88,307.54 493.31,202.48 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon308"
        fill="#535461"
        points="370.88,307.54 248.97,204.48 7.66,267.32 130.83,365.36 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon310"
        opacity="0.05"
        points="371.88,307.54 246.97,202.48 5.66,265.32 131.83,365.36 " />
     <g
+       transform="translate(3.4,6.8)"
        id="g314"
        opacity="0.5">
       <rect
@@ -1440,8 +1451,8 @@
        rx="4.5"
        height="160.41"
        width="174.07001"
-       y="254.52"
-       x="193.00999" />
+       y="261.32001"
+       x="196.41" />
     <rect
        id="rect318"
        fill="#b7131e"
@@ -1449,8 +1460,8 @@
        rx="4.5"
        height="26.42"
        width="29.360001"
-       y="280.94"
-       x="206.42" />
+       y="287.73999"
+       x="209.82001" />
     <rect
        id="rect320"
        fill="#e0e0e0"
@@ -1458,8 +1469,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="116.7"
-       y="280.94"
-       x="244.59" />
+       y="287.73999"
+       x="247.98999" />
     <rect
        id="rect322"
        fill="#e0e0e0"
@@ -1467,8 +1478,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="116.7"
-       y="289.73999"
-       x="244.59" />
+       y="296.53998"
+       x="247.98999" />
     <rect
        id="rect324"
        fill="#e0e0e0"
@@ -1476,8 +1487,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="321.70999"
-       x="203.49001" />
+       y="328.50998"
+       x="206.89001" />
     <rect
        id="rect326"
        fill="#e0e0e0"
@@ -1485,8 +1496,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="330.51999"
-       x="203.49001" />
+       y="337.31998"
+       x="206.89001" />
     <rect
        id="rect328"
        fill="#e0e0e0"
@@ -1494,8 +1505,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="342.26001"
-       x="203.49001" />
+       y="349.06"
+       x="206.89001" />
     <rect
        id="rect330"
        fill="#e0e0e0"
@@ -1503,8 +1514,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="91.010002"
-       y="351.07001"
-       x="203.49001" />
+       y="357.87"
+       x="206.89001" />
     <rect
        id="rect332"
        fill="#e0e0e0"
@@ -1512,8 +1523,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="362.78"
-       x="203.49001" />
+       y="369.57999"
+       x="206.89001" />
     <rect
        id="rect334"
        fill="#e0e0e0"
@@ -1521,8 +1532,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="371.59"
-       x="203.49001" />
+       y="378.38998"
+       x="206.89001" />
     <rect
        id="rect336"
        fill="#e0e0e0"
@@ -1530,8 +1541,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="383.32999"
-       x="203.49001" />
+       y="390.12997"
+       x="206.89001" />
     <rect
        id="rect338"
        fill="#e0e0e0"
@@ -1539,9 +1550,10 @@
        rx="0.80000001"
        height="2.9400001"
        width="91.010002"
-       y="392.14001"
-       x="203.49001" />
+       y="398.94"
+       x="206.89001" />
     <g
+       transform="translate(3.4,6.8)"
        id="g342"
        opacity="0.5">
       <rect
@@ -1562,8 +1574,8 @@
        rx="4.5"
        height="160.41"
        width="174.07001"
-       y="292.51001"
-       x="219.89999" />
+       y="299.31"
+       x="223.29999" />
     <rect
        id="rect346"
        fill="#b7131e"
@@ -1571,8 +1583,8 @@
        rx="4.5"
        height="26.42"
        width="29.360001"
-       y="318.92999"
-       x="233.31" />
+       y="325.72998"
+       x="236.70999" />
     <rect
        id="rect348"
        fill="#e0e0e0"
@@ -1580,8 +1592,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="116.7"
-       y="318.92999"
-       x="271.48001" />
+       y="325.72998"
+       x="274.88" />
     <rect
        id="rect350"
        fill="#e0e0e0"
@@ -1589,8 +1601,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="116.7"
-       y="327.73001"
-       x="271.48001" />
+       y="334.53"
+       x="274.88" />
     <rect
        id="rect352"
        fill="#e0e0e0"
@@ -1598,8 +1610,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="359.70001"
-       x="230.38" />
+       y="366.5"
+       x="233.78" />
     <rect
        id="rect354"
        fill="#e0e0e0"
@@ -1607,8 +1619,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="368.51001"
-       x="230.38" />
+       y="375.31"
+       x="233.78" />
     <rect
        id="rect356"
        fill="#e0e0e0"
@@ -1616,8 +1628,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="380.25"
-       x="230.38" />
+       y="387.04999"
+       x="233.78" />
     <rect
        id="rect358"
        fill="#e0e0e0"
@@ -1625,8 +1637,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="91.010002"
-       y="389.06"
-       x="230.38" />
+       y="395.85999"
+       x="233.78" />
     <rect
        id="rect360"
        fill="#e0e0e0"
@@ -1634,8 +1646,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="400.76999"
-       x="230.38" />
+       y="407.56998"
+       x="233.78" />
     <rect
        id="rect362"
        fill="#e0e0e0"
@@ -1643,8 +1655,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="409.57999"
-       x="230.38" />
+       y="416.37997"
+       x="233.78" />
     <rect
        id="rect364"
        fill="#e0e0e0"
@@ -1652,8 +1664,8 @@
        rx="0.80000001"
        height="2.9400001"
        width="157.8"
-       y="421.32001"
-       x="230.38" />
+       y="428.12"
+       x="233.78" />
     <rect
        id="rect366"
        fill="#e0e0e0"
@@ -1661,9 +1673,10 @@
        rx="0.80000001"
        height="2.9400001"
        width="91.010002"
-       y="430.13"
-       x="230.38" />
+       y="436.92999"
+       x="233.78" />
     <g
+       transform="translate(3.4,6.8)"
        id="g370"
        opacity="0.5">
       <rect
@@ -1680,9 +1693,10 @@
        fill="#ffffff"
        height="174.46001"
        width="146.36"
-       y="315.42999"
-       x="326.09" />
+       y="322.22998"
+       x="329.48999" />
     <g
+       transform="translate(3.4,6.8)"
        id="g376"
        opacity="0.5">
       <path
@@ -1698,69 +1712,74 @@
        fill="#b7131e"
        height="19.709999"
        width="35.040001"
-       y="343.89999"
-       x="381.75" />
+       y="350.69998"
+       x="385.15002" />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon380"
        fill="#b7131e"
-       points="406.57,344.99 406.57,339.88 391.97,339.88 391.97,344.99 393.79,344.99 393.79,341.34 404.74,341.34 404.74,344.99 " />
+       points="393.79,344.99 393.79,341.34 404.74,341.34 404.74,344.99 406.57,344.99 406.57,339.88 391.97,339.88 391.97,344.99 " />
     <rect
        id="rect382"
        fill="#e0e0e0"
        height="4.3800001"
        width="102.92"
-       y="391.97"
-       x="347.98999" />
+       y="398.76999"
+       x="351.38998" />
     <rect
        id="rect384"
        fill="#e0e0e0"
        height="4.3800001"
        width="102.92"
-       y="420.79999"
-       x="347.98999" />
+       y="427.59998"
+       x="351.38998" />
     <rect
        id="rect386"
        fill="#e0e0e0"
        height="4.3800001"
        width="102.92"
-       y="428.47"
-       x="347.98999" />
+       y="435.26999"
+       x="351.38998" />
     <rect
        id="rect388"
        fill="#e0e0e0"
        height="4.3800001"
        width="43.43"
-       y="413.14001"
-       x="347.98999" />
+       y="419.94"
+       x="351.38998" />
     <rect
        id="rect390"
        opacity="0.6"
        fill="#3ad29f"
        height="4.3800001"
        width="32.48"
-       y="413.14001"
-       x="418.42999" />
+       y="419.94"
+       x="421.82999" />
     <rect
        id="rect392"
        fill="#b7131e"
        height="4.3800001"
        width="32.48"
-       y="446.35001"
-       x="384.12" />
+       y="453.14999"
+       x="387.51999" />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon394"
        fill="#535461"
        points="368.88,758.01 372.12,427.46 128.83,363.36 128.83,696.42 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon396"
        fill="#535461"
        points="368.88,427.46 608.94,363.36 608.94,695.17 368.88,758.01 " />
     <polygon
+       transform="translate(3.4,6.8)"
        style="opacity:0"
        id="polygon398"
        opacity="0.07"
        points="368.88,427.46 608.94,363.36 608.94,695.17 368.88,758.01 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon400"
        opacity="0.07"
        points="608.94,667.52 608.94,558.17 513.42,584.57 513.42,693.91 " />
@@ -1770,16 +1789,17 @@
        fill="url(#e62c516b-7ef4-49fd-a0a5-f3f48af03dcb)"
        height="68.019997"
        width="70.800003"
-       y="335.57999"
-       x="483.31" />
+       y="342.37997"
+       x="486.71002" />
     <rect
        id="rect404"
        fill="#f5f5f5"
        height="64.970001"
        width="68.580002"
-       y="337.23999"
-       x="484.42001" />
+       y="344.03998"
+       x="487.82001" />
     <g
+       transform="translate(3.4,6.8)"
        id="g408"
        opacity="0.5">
       <path
@@ -1796,14 +1816,16 @@
        fill="#b7131e"
        height="14.99"
        width="26.65"
-       y="349.17999"
-       x="505.38" />
+       y="355.97998"
+       x="508.78" />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon412"
        opacity="0.6"
        fill="#b7131e"
-       points="524.26,350.02 524.26,346.13 513.16,346.13 513.16,350.02 514.55,350.02 514.55,347.24 522.88,347.24 522.88,350.02 " />
+       points="514.55,350.02 514.55,347.24 522.88,347.24 522.88,350.02 524.26,350.02 524.26,346.13 513.16,346.13 513.16,350.02 " />
     <g
+       transform="translate(3.4,6.8)"
        id="g416"
        opacity="0.6">
       <rect
@@ -1819,10 +1841,10 @@
        fill="#bdbdbd"
        height="3.3299999"
        width="42.200001"
-       y="381.95001"
-       x="497.60999" />
+       y="388.75"
+       x="501.01001" />
     <g
-       transform="translate(0,88)"
+       transform="translate(3.4,94.8)"
        id="g440"
        opacity="0.5">
       <rect
@@ -1839,65 +1861,66 @@
        fill="#f2f2f2"
        height="72.669998"
        width="89.419998"
-       y="217.07001"
-       x="316.54001" />
+       y="223.87"
+       x="319.94" />
     <rect
        id="rect444"
        fill="#b7131e"
        height="16.209999"
        width="89.419998"
-       y="217.07001"
-       x="316.54001" />
+       y="223.87"
+       x="319.94" />
     <rect
        id="rect446"
        opacity="0.1"
        height="16.209999"
        width="89.419998"
-       y="217.07001"
-       x="316.54001" />
+       y="223.87"
+       x="319.94" />
     <rect
        id="rect448"
        fill="#e0e0e0"
        height="9.4399996"
        width="75.169998"
-       y="239.16"
-       x="323.67001" />
+       y="245.95999"
+       x="327.07001" />
     <rect
        id="rect450"
        fill="#e0e0e0"
        height="3.21"
        width="54.860001"
-       y="255.72"
-       x="323.67001" />
+       y="262.51999"
+       x="327.07001" />
     <rect
        id="rect452"
        fill="#e0e0e0"
        height="3.21"
        width="35.619999"
-       y="261.23999"
-       x="323.67001" />
+       y="268.03998"
+       x="327.07001" />
     <rect
        id="rect454"
        fill="#e0e0e0"
        height="3.21"
        width="47.02"
-       y="266.76001"
-       x="323.67001" />
+       y="273.56"
+       x="327.07001" />
     <rect
        id="rect456"
        fill="#e0e0e0"
        height="3.21"
        width="54.860001"
-       y="272.28998"
-       x="323.67001" />
+       y="279.08997"
+       x="327.07001" />
     <rect
        id="rect458"
        fill="#e0e0e0"
        height="3.21"
        width="18.35"
-       y="277.81"
-       x="323.67001" />
+       y="284.60999"
+       x="327.07001" />
     <g
+       transform="translate(3.4,6.8)"
        id="g462"
        opacity="0.5">
       <rect
@@ -1914,81 +1937,86 @@
        fill="#ffffff"
        height="90.080002"
        width="110.83"
-       y="185.98"
-       x="451.66" />
+       y="192.77998"
+       x="455.06003" />
     <rect
        id="rect466"
        fill="#b7131e"
        height="20.09"
        width="110.83"
-       y="185.98"
-       x="451.66" />
+       y="192.77998"
+       x="455.06003" />
     <rect
        id="rect468"
        fill="#f5f5f5"
        height="11.7"
        width="93.169998"
-       y="213.36"
-       x="460.48999" />
+       y="220.15999"
+       x="463.88998" />
     <rect
        id="rect470"
        fill="#e0e0e0"
        height="3.97"
        width="68"
-       y="233.89"
-       x="460.48999" />
+       y="240.68999"
+       x="463.88998" />
     <rect
        id="rect472"
        fill="#e0e0e0"
        height="3.97"
        width="44.16"
-       y="240.74001"
-       x="460.48999" />
+       y="247.53999"
+       x="463.88998" />
     <rect
        id="rect474"
        fill="#e0e0e0"
        height="3.97"
        width="58.279999"
-       y="247.58"
-       x="460.48999" />
+       y="254.37999"
+       x="463.88998" />
     <rect
        id="rect476"
        fill="#e0e0e0"
        height="3.97"
        width="68"
-       y="254.42999"
-       x="460.48999" />
+       y="261.22998"
+       x="463.88998" />
     <rect
        id="rect478"
        fill="#e0e0e0"
        height="3.97"
        width="22.74"
-       y="261.26999"
-       x="460.48999" />
+       y="268.06998"
+       x="463.88998" />
     <rect
        id="rect480"
        fill="#69f0ae"
        height="3.53"
        width="26.49"
-       y="217.33"
-       x="465.35001" />
+       y="224.12999"
+       x="468.75003" />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon482"
        opacity="0.1"
-       points="260.17,570.11 368.26,482.13 368.26,428.09 128.2,367.76 125.69,536.18 " />
+       points="125.69,536.18 260.17,570.11 368.26,482.13 368.26,428.09 128.2,367.76 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon484"
        opacity="0.1"
-       points="476.35,570.11 368.26,482.13 368.26,428.09 608.32,367.76 610.83,536.18 " />
+       points="610.83,536.18 476.35,570.11 368.26,482.13 368.26,428.09 608.32,367.76 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon486"
        fill="#535461"
        points="245.71,525.49 368.88,427.46 128.83,363.36 5.66,465.16 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon488"
        fill="#535461"
        points="494.57,525.49 368.88,427.46 608.94,363.36 733.37,465.16 " />
     <polygon
+       transform="translate(3.4,6.8)"
        id="polygon490"
        opacity="0.07"
        points="494.57,525.49 368.88,427.46 608.94,363.36 733.37,465.16 " />
@@ -2310,8 +2338,8 @@ QgghxLD5/wFyfnLBYV3ABgAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="231"
        width="614"
-       x="55.226357"
-       y="-9.448431" />
+       x="58.62635"
+       y="-2.6484311" />
     <image
        id="image521"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgCAYAAAA10dzkAAAABHNCSVQICAgIfAhkiAAAIABJREFU
@@ -2547,10 +2575,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJTE/w849+DW2IIQ8wAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="360.82492"
        width="481.09998"
-       x="124.43353"
-       y="378.39157" />
+       x="127.83352"
+       y="385.19156" />
     <text
-       transform="translate(-46,32)"
+       transform="translate(-42.6,38.8)"
        style="font-style:normal;font-weight:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect712);fill:#000000;fill-opacity:1;stroke:none"
        id="text710"
        xml:space="preserve"><tspan
