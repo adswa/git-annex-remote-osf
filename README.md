@@ -44,11 +44,11 @@ Here is a list of software that could be helpful to have installed for this proj
 
 ### Code of conduct
 
-As part of the Brainhack, this project adheres to the [OHBM's Code of Conduct](https://ohbm.github.io/hackathon2020/coc/). We ask all team members to respect and adhere to it, and to teport code of conduct violations you encounter via the general channels detailed in the CoC. Feel free to contact Adina (adina.wagner@t-online.de, @adswa) as the project lead of this brainhack project if there is something CoC-related you want to discuss with her first.
+As part of the Brainhack, this project adheres to the [OHBM's Code of Conduct](https://ohbm.github.io/hackathon2020/coc/). We ask all team members to respect and adhere to it, and to report code of conduct violations you encounter via the general channels detailed in the CoC. Feel free to contact Adina (adina.wagner@t-online.de, @adswa) as the project lead of this brainhack project if there is something CoC-related you want to discuss with her first.
 
 ## Get in touch!
 
-If you want to become a part of this project, we're super happy to welcome you here. Get in touch via our [Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/git-annex-osf), meet up with others in our [video chat](https://meet.jit.si/git-annex-osf), or create an issue to introduce yourself.
+If you want to become a part of this project, we're super happy to welcome you here. Get in touch via our [Mattermost channel](https://mattermost.brainhack.org/brainhack/channels/git-annex-osf), meet up with others in our [video chat](https://meet.jit.si/hbm-git-annex-osf), or create an issue to introduce yourself.
 
 ## Where to find TODOs?
 
