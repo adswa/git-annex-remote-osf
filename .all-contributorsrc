@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "adswa",
+      "name": "Adina Wagner",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/29738718?v=4",
+      "profile": "http://www.adina-wagner.com",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "git-annex-remote-osf",
+  "projectOwner": "adswa",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
