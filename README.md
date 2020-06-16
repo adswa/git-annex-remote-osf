@@ -18,6 +18,8 @@ During the Brainhack, we want to...
 - Short term goal: export and import data from public OSF projects from and into git-annex repositories
 - Nice-to-have's/Long(er) term development goals: Extend functionality to private repositories (requires token-based authentication)
 
+**EDIT**: Technical development takes place in https://github.com/datalad/datalad-osf as a DataLad extension, this repository is used for coordination. :+1:
+
 
 ## How can you help?
 
