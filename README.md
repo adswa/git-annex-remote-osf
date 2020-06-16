@@ -5,7 +5,7 @@
 
 Hey there :wave:
 
-Welcome to our project. This repository is a place to develop a new [git-annex special remote](https://git-annex.branchable.com/special_remotes/) for the [Open Science Fraework](https://osf.io/) data storage, and we will start doing so at the OHBM Brainhack 2020.
+Welcome to our project. This repository is a place to develop a new [git-annex special remote](https://git-annex.branchable.com/special_remotes/) for the [Open Science Framework](https://osf.io/) data storage, and we will start doing so at the OHBM Brainhack 2020.
 
 ## Project description and aims
 
