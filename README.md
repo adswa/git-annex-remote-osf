@@ -2,6 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Documentation Status](https://readthedocs.org/projects/datalad-osf/badge/?version=latest)](http://docs.datalad.org/projects/osf/en/latest/?badge=latest)
 
 Hey there :wave:
 
