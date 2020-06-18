@@ -6,8 +6,25 @@
 
 Hey there :wave:
 
-Welcome to our project. This repository is a place to develop a new [git-annex special remote](https://git-annex.branchable.com/special_remotes/) for the [Open Science Framework](https://osf.io/) data storage, and we will start doing so at the OHBM Brainhack 2020.
+Welcome to our project. This repository was a place to develop a new [git-annex special remote](https://git-annex.branchable.com/special_remotes/) for the [Open Science Framework](https://osf.io/) data storage, conducted during the [OHBM Brainhack 2020](https://github.com/ohbm/hackathon2020/issues/156).
 
+# Current state of things
+
+We have used this repository for coordination and issue tracking.
+The concrete development has happened in the form of a datalad extension in https://github.com/datalad/datalad-osf. Please head over to this repository for documentation and code.
+
+#### This project wouldn't have been possible without all of the wonderful contributors:
+- Michael Hanke
+- Benjamin Poldrack
+- Dorien Huijser
+- Simon Steinkamp
+- Ashish Sahoo
+- Nick
+- Nikita Belyi
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# Previous README
 ## Project description and aims
 
 The [Open Science Framework (OSF)](https://osf.io/) is an amazing infrastructure for open science. In this project, we attempt to create a [git-annex special remote](https://git-annex.branchable.com/special_remotes/) implementation to leverage OSF filestorage and make the data storing that OSF provides even more useful. The git-annex OFS special remote would allow to transform OSF storage into git-annex repositories. Files in OSF storage could thus be consumed or exported fast and easily via git-annex or [datalad](https://github.com/datalad/datalad), and published to repository-hosting services (GitHub, GitLab, Bitbucket, ...) as lightweight repositories that constitute an alternative access to the data stored on the OSF - that is: you can ``git clone`` a repository from for example GitHub and ``get`` the data from the OSF from the command line or in your scripts.
